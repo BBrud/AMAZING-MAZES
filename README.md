@@ -3,8 +3,8 @@ My first program, that works properly...sort of.
 
 All you need to do to get it to work in ensure you have the following python libraries installed.
 
-- PIL - python3 -m pip install --upgrade Pillow
-
+- PIL - "python3 -m pip install --upgrade Pillow"
+- numpy -  "pip install numpy"
 - sys
 
 Then run the app.py file. 
